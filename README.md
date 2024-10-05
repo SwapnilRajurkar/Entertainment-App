@@ -106,10 +106,6 @@ Ensure you have the following installed on your machine:
 * Express.js: For building the backend server.
 * Redux: For managing application state and ensuring smooth data flow.
 
-# Links
-* Deployment Link:[ https://entertainment-app-theta-one.vercel.app/](https://entertainment-app-tawny-beta.vercel.app/)
-
-
 # Developed By
- * Abhishek Tiwari
+ * Swapnil Shekhar Rajurkar
 
